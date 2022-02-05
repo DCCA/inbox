@@ -1,0 +1,3 @@
+Tools
+- Ganache > Creating a local test network
+- Infura > Using to interact with a node in the network
