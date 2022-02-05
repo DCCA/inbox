@@ -1,3 +1,20 @@
 Tools
 - Ganache > Creating a local test network
 - Infura > Using to interact with a node in the network
+
+Ganache - creates a local test network
+
+
+Steps for a projet
+
+1. Write the Contract
+2. Use the Solidity Compiler to compile the Contract
+3. Create some tests using Ganache and Web3 to make
+sure the Contract is working
+4. Bring the INTERFACE  and the BYTEDATA from the
+compiler to the test file
+5. Set-up the deploy in the test file
+6. Create the real deploy file, using most of the
+code in the test file
+7. Use a real account and a API node in the provider
+8. Use this provider created in the real deploy process
